@@ -1,0 +1,70 @@
+From the creators of Sorcery Overhaul comes Archery Overhaul!
+
+Archery Overhaul doesn't just add in more bows and arrows; it creates a better archery experience. Here are some of the unique features Archery Overhaul has to offer.:
+
+. Critical hits on arrows create a splash-damaging shockwave
+. Blur effect on arrows when reaching high speeds
+. Arrow impacts have custom sounds and particle effects
+. Quivers visually equip onto the player
+. New Crossbows have a right-click functionality
+. Arrow Pouches drop from enemies, which scale with game progression
+. All ranged weapons have autoswing by default
+. Full bar conversion
+. Alternate recipes for vanilla items (e.g., Hermes boots, Anklet of the Wind)
+
+This mod currently adds in the following 150+ items:
+
+. 50+ New Bows
+. 25 New Arrows
+. 6 New Crossbow Variants
+. 30 New Accessories
+. 8 Equippable Quivers with visual effects
+. 4 New armor sets
+. 15 New Materials
+. 5 New Arrow Grenades
+. 8 New Loot Bags
+. 1 New NPC
+. 1 New Potion
+. 1 New Enemy
+. 10+ New Recipes for vanilla items
+
+And much more!
+
+Thank you for over 300,000 downloads! I'm so glad people can have so much fun with something I made!
+
+If you didn't know, I'm actually a game developer, and I make tons of art, music and more! (This is my first terraria mod, criticism is welcome!) If you want to share your work and have fun, 
+or want to find the wiki, join my discord below! We try to update the mod every other week. If you want to help make sprites or code for the mod, join my Discord and send me a message!
+
+Discord: https://discord.gg/4ny8w74
+
+If you want to support both my terraria mods and my games, become a patron for a custom donor item and other special rewards! 
+
+Patreon: https://www.patreon.com/RipStudios
+
+= Overhaul Team =:
+
+Riptide
+Mutater
+PootisTweet
+Canbash
+Nebora
+
+== IMPORTANT ==
+
+Right now, since I am working on Sorcery Overhaul, I have given permission to a fellow artist of Archery Overhaul and Sorcery Overhaul (Mutater) to make changes to sprites 
+and code and generally improve the mod.
+
+== CHANGELOG ==
+
+== v 2.2 - Fixed Grenades ==
+
+. Arrow Grenades now release 6 arrows instead of 8
+. Meteoric Bow & Armageddon completely reworked and buffed, visuals updated
+. String now only cost 3 cobweb
+. String and Silver string visuals updated
+
+
+
+
+
+

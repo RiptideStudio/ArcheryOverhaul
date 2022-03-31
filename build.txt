@@ -1,0 +1,4 @@
+displayName = Archery Overhaul
+author = Riptide
+version = 1.0.38
+homepage = https://discord.gg/XbzKuFg
